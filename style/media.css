@@ -1,0 +1,500 @@
+@media(max-width:1300px){
+.handmade{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+.studio{
+justify-content: center;
+align-items: center;
+}
+.handmade__img{
+width:1200px;
+object-fit: cover;
+}
+.handsome{
+background: var(--white);
+}
+.studio{
+display: flex;
+margin: 0;
+}
+.main{
+align-items: center;
+}
+.piece{
+width: 600px;
+height: 500px;
+justify-content: center;
+background:#151414;
+}
+.piece2{
+display: flex;
+flex-direction: column;
+}
+.handmade2__img{
+width: 600px;
+object-fit: cover;
+/* height: 541px; */
+}
+.piece__first{
+margin-left: 40px;
+}
+.piece__title{
+color: var(--white);
+}
+.piece__text{
+color: var(--white);
+}
+.piece__link{
+background: var(--white);
+color:var(--black)
+}
+.studio__text{
+color: var(--white);
+}
+.handmade3__img{
+width: 600px;
+object-fit: cover;
+/* height: 541px; */
+}
+.studio{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+width: 100%;
+}
+.smart{
+width: 100%;
+}
+.studio1{
+width: 600px;
+/* height: 541px; */
+}
+.studio2{
+width: 1200px;
+/* height: 541px; */
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    } 
+    .footer{
+    gap: 60px;
+    }
+    body{
+    background: var(--white);
+    }
+}
+@media(max-width:1200px){
+.handmade{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+.studio{
+justify-content: center;
+align-items: center;
+}
+.handmade__img{
+width: 920px;
+object-fit: cover;
+}
+.handsome{
+background: var(--white);
+}
+.studio{
+display: flex;
+margin: 0;
+}
+.main{
+    align-items: center;
+}
+.piece{
+    width: 460px;
+    height: 360px;
+    justify-content: center;
+    background:#151414;
+}
+.piece2{
+display: flex;
+flex-direction: column;
+}
+.handmade2__img{
+width: 460px;
+height: 360px;
+object-fit: cover;
+object-fit: cover;
+}
+.piece__first{
+margin-left: 40px;
+}
+.piece__text{
+    color: var(--white);
+    }
+    .piece__link{
+    background: var(--white);
+    color:var(--black)
+    }
+    .studio__text{
+    color: var(--white);
+    }
+    .handmade3__img{
+    width: 460px;
+    object-fit: cover;
+    height: 360px;
+    object-fit: cover;
+    }
+    .studio{
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    }
+    .smart{
+    width: 100%;
+    }
+    .studio1{
+    width: 460px;
+    height: 360px;
+    object-fit: cover;
+    }
+    .studio2{
+    width: 920px;
+    /* height: 541px; */
+    }
+    .container{
+        width: 920px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        } 
+        .footer{
+        gap: 60px;
+        }
+        body{
+        background: var(--white);
+        }
+}
+@media(max-width:1146px){
+    .container{
+    width: 790px;
+    }
+.header__nav{
+flex-direction: column;
+gap: 20px;
+}
+.footer{
+flex-wrap: wrap-reverse;
+}
+}
+
+
+
+@media(max-width:920px){
+    .container{
+    width: none;
+    }
+    .smart__article{
+    margin-left: 50px;
+    }
+    .smart__link{
+    margin-left: 50px;
+    }
+    .header__nav{
+    align-items: center;
+    }
+    .header__list{
+    flex-wrap: wrap;
+    }
+    .handmade{
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    }
+    .studio{
+    justify-content: center;
+    align-items: center;
+    }
+    .handmade__img{
+        width:756px;
+    object-fit: cover;
+    }
+    .handsome{
+    background: var(--white);
+    }
+    .studio{
+    display: flex;
+    margin: 0;
+    }
+    .main{
+        align-items: center;
+    }
+    .piece{
+        width: 378px;
+    height: 278px;
+        justify-content: center;
+        background:#151414;
+    }
+    .piece2{
+    display: flex;
+    flex-direction: column;
+    }
+    .handmade2__img{
+        width: 378px;
+        height: 278px;
+    object-fit: cover;
+    }
+    .piece__first{
+    margin-left: 40px;
+    }
+    .piece__text{
+        color: var(--white);
+        }
+        .piece__link{
+        background: var(--white);
+        color:var(--black)
+        }
+        .studio__text{
+        color: var(--white);
+        }
+        .handmade3__img{
+        width: 378px;
+        object-fit: cover;
+        height: 278px;;
+        object-fit: cover;
+        }
+        .studio{
+            display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        }
+        .smart{
+        width: 100%;
+        }
+        .studio1{
+            width: 378px;
+            height: 278px;
+        object-fit: cover;
+        }
+        .studio2{
+        width:756px;
+        /* height: 541px; */
+        }
+        .container{
+            width:none;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+            } 
+            .footer{
+                display: flex;
+                flex-wrap:wrap;
+                justify-content: center;
+                align-items: center;
+            gap: 20px;
+            }
+            body{
+            background: var(--white);
+            }    
+.first__article{
+width: 300px;
+}
+.first__second{
+width: 300px;
+}
+.first__third{
+width: 300px;
+}
+.first__fourth{
+width: 300px;
+}
+.smart__titel{
+font-size: 30px;
+}
+.smart__text{
+font-size: 20px;
+}
+.handsome__titel{
+    font-size: 30px;
+    }
+    .handsome__text{
+        font-size: 20px;
+        }
+
+}
+@media(max-width:576px){
+    .container{
+    width: none;
+    }
+    .smart__article{
+    margin-left: 50px;
+    }
+    .smart__link{
+    margin-left: 50px;
+    }
+    .header__nav{
+    align-items: center;
+    }
+    .header__list{
+    flex-wrap: wrap;
+    }
+    .handmade{
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    }
+    .studio{
+    justify-content: center;
+    align-items: center;
+    }
+    .handmade__img{
+        width:576px;
+    object-fit: cover;
+    }
+    .handsome{
+    background: var(--white);
+    }
+    .studio{
+    display: flex;
+    margin: 0;
+    }
+    .main{
+        align-items: center;
+    }
+    .piece{
+        width:288px;
+    height:188px;
+        justify-content: center;
+        background:#151414;
+    }
+    .piece2{
+    display: flex;
+    flex-direction: column;
+    }
+    .handmade2__img{
+        width:288px;
+        height:188px;
+    object-fit: cover;
+    }
+    .piece__first{
+    margin-left: 40px;
+    }
+    .piece__text{
+        color: var(--white);
+        }
+        .piece__link{
+        background: var(--white);
+        color:var(--black)
+        }
+        .studio__text{
+        color: var(--white);
+        }
+        .handmade3__img{
+        width:288px;
+        object-fit: cover;
+        height:188px;;
+        object-fit: cover;
+        }
+        .studio{
+            display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        }
+        .smart{
+        width: 100%;
+        }
+        .studio1{
+            width:288px;
+            height:188px;
+        object-fit: cover;
+        }
+        .studio2{
+        width: 576px;
+        /* height: 541px; */
+        }
+        .container{
+            width:none;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+            } 
+            .footer{
+                display: flex;
+                flex-wrap:wrap;
+                justify-content: center;
+                align-items: center;
+            gap: 20px;
+            }
+            body{
+            background: var(--white);
+            }    
+.first__article{
+width: 300px;
+}
+.first__second{
+width: 300px;
+}
+.first__third{
+width: 300px;
+}
+.first__fourth{
+width: 300px;
+}
+.smart__titel{
+font-size: 30px;
+}
+.smart__text{
+font-size: 20px;
+}
+.handsome__titel{
+    font-size: 30px;
+    }
+    .handsome__text{
+        font-size: 20px;
+        }
+.piece__title{
+font-size: 10px;
+}
+.piece__text{
+font-size: 9px;
+}
+.studio__text{
+font-size: 9px;
+}
+.piece__link{
+    width: 100px;
+font-size: 8px;
+padding: 12px 22px;
+}
+.handsome__imz{
+font-size: 50px;
+}
+.handsome__title{
+font-size: 20px;
+}
+.handsome__text{
+font-size: 10px;
+}
+.smart__link{
+font-size: 16px;
+}
+.smart__text{
+font-size: 11px;
+}
+.smart__title{
+font-size: 20px;
+}
+}
