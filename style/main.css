@@ -132,8 +132,12 @@ width: 480px;
 height: 400px;
 display: flex;
 align-items: center;
-
-
+}
+.handmade__img{
+    width: 100%;
+}
+.studio2{
+width: 100%;
 }
 .piece__article{
 display: flex;
